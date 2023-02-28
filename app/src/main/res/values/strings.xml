@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MRF BMI Calculator</string>
+
+
+    <string-array name="height">
+
+
+        <item>cm</item>
+        <item>m</item>
+
+
+    </string-array>
+</resources>
